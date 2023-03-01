@@ -89,7 +89,7 @@ At Lovetap, we strive to apply the same data rights to all customers, regardless
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
-* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.  If you want to an archive of data from your accounts, you may request one at no charge via email. You will receive your data archive within 30 days.
+* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.  If you want an archive of data from your account, you may request one at no charge by [emailing support](mailto:help@lovetap.fm). You will receive your a link to your data archive within 30 days, and that link will remain active for 30 days after it is sent.
 * **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
 * **Right to Non-Discrimination.** We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
 
@@ -116,13 +116,13 @@ If you deactivate your account, we’ll log out all existing dashboard sessions 
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, Lovetap has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. Lovetap’s DPA is available at <TODO>.
+The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, Lovetap has adopted a data processing agreement with Standard Contractual Clauses to help ensure this protection. Lovetap’s Data Processing Agreement is available [on GitHub](https://github.com/lovetap-fm/policies/commits/master).
 
 There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with Lovetap LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/lovetap-fm/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@lovetap.fm](mailto:privacy@lovetap.fm) and we’ll be happy to try to answer them!
 
