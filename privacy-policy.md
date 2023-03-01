@@ -72,7 +72,7 @@ We use a few third-party subprocessors to help run our applications and provide 
 
 We use Courier and Postmark to send customers email and manage their email preferences. When you create an account, they will receive your email address and the contents of any email we send you.
 
-We use Stripe to process payments and manage subscriptions. When you upgrade from your free trial, they will receive your billing details, billable resource usage, and subscription status information.
+We use Stripe to calculate taxes, process payments, and manage subscriptions. When you upgrade from your free trial, they will receive your billing details, billable resource usage, and subscription status information.
 
 We use Fly and Cloudflare to host our website, web application, and databases. Whenever you use our website or API, they will receive your IP address and some information about your device and activity in the process of connecting you to our service and running our servers.
 
