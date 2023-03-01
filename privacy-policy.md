@@ -2,8 +2,6 @@
 
 *Last updated March 1, 2023*
 
-This policy applies to all products built and maintained by Lovetap LLC including Lovetap.fm (“Lovetap”). 
-
 Lovetap’s mission is to connect people with what they ❤️ — and since most people don’t ❤️ being tracked across the internet and having their personal data stored and sold, we don’t do that. This document describes specifically what information we do and don’t collect about you as a customer or visitor.
 
 As a guiding principle, we aim to collect only the information needed to provide a complete and valuable service. We especially aim to protect the privacy of visitors to our customers’ websites, some of whom surely have no interest in interacting with us but are nonetheless unwilling or unable to block our services from their devices.
@@ -130,3 +128,5 @@ We may update this policy as needed to comply with relevant regulations and refl
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@lovetap.fm](mailto:privacy@lovetap.fm) and we’ll be happy to try to answer them!
 
 This privacy policy was adapted from [the open source privacy policy published by 37signals](https://github.com/basecamp/policies/blob/master/privacy/index.md). We thank them for sharing a valuable resource with the community.
+
+*This privacy policy applies to all products created and owned by Lovetap LLC.*
