@@ -1,5 +1,7 @@
 # Privacy Policy
 
+*Last updated March 1, 2023*
+
 This policy applies to all products built and maintained by Lovetap LLC including Lovetap.fm (“Lovetap”). 
 
 Lovetap’s mission is to connect people with what they ❤️ — and since most people don’t ❤️ being tracked across the internet and having their personal data stored and sold, we don’t do that. This document describes specifically what information we do and don’t collect about you as a customer or visitor.
@@ -89,7 +91,7 @@ At Lovetap, we strive to apply the same data rights to all customers, regardless
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
-* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.  If you want an archive of data from your account, you may request one at no charge by [emailing support](mailto:help@lovetap.fm). You will receive your a link to your data archive within 30 days, and that link will remain active for 30 days after it is sent.
+* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party. You can find more details in our [Data Export Policy](https://github.com/lovetap-fm/policies/blob/main/data-export.md).
 * **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
 * **Right to Non-Discrimination.** We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
 
