@@ -1,5 +1,7 @@
 # A fair refund policy.
 
+*Last updated March 1, 2023*
+
 Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products for any reason, [just send us an email](mailto:help@lovetap.fm) and we'll take care of you.
 
 ## Examples of full refunds we’d grant.
