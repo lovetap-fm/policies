@@ -113,19 +113,19 @@ Our service runs on multiple servers that run around the world and connect to ea
 
 Our products and other web properties are operated in the United States. If you are located in the European Union, UK, or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our websites or services and/or providing us with your personal information, you consent to this transfer.
 
-### Deletion
+### Cancellation
 
-If you deactivate your account, we’ll log out all existing dashboard sessions and disable any account functionality. Your account data will be deleted within 60 days. We do not guarantee that we will be able to restore account functionality if you change your mind before your account data is deleted, but you are welcome to ask.
+If you cancel your account, we’ll log out all existing dashboard sessions and disable any account functionality. As per our [Cancellation Policy](https://github.com/lovetap-fm/policies/blob/main/cancellation.md), Your account data will be permanently deleted within 60 days. We do not guarantee that we will be able to restore account functionality if you change your mind before your account data is deleted, but you are welcome to ask.
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, Lovetap has adopted a data processing agreement with Standard Contractual Clauses to help ensure this protection. Lovetap’s Data Processing Agreement is available [on GitHub](https://github.com/lovetap-fm/policies/commits/master).
+The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, Lovetap has adopted a data processing agreement with Standard Contractual Clauses to help ensure this protection. Lovetap’s Data Processing Agreement is available [on GitHub](https://github.com/lovetap-fm/policies).
 
 There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with Lovetap LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/lovetap-fm/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/lovetap-fm/policies). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@lovetap.fm](mailto:privacy@lovetap.fm) and we’ll be happy to try to answer them!
 
