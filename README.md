@@ -4,3 +4,4 @@ Lovetap's public policies and terms in this repo are open source, licensed under
 Policies in this repo:
 
 1. Privacy Policy
+2. Data Processing Agreement
