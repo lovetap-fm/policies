@@ -76,7 +76,7 @@ We use Stripe to process payments and manage subscriptions. When you upgrade fro
 
 We use Fly and Cloudflare to host our website, web application, and databases. Whenever you use our website or API, they will receive your IP address and some information about your device and activity in the process of connecting you to our service and running our servers.
 
-We use Algolia to provide search capabilities to our customers. They will receive any searchable data that our customers provide about their content when connecting their visitors to Lovetap.
+We use Algolia to provide search capabilities to our customers. They will receive any searchable data that you explicitly provide about your content when connecting to our service.
 
 ## Your rights with respect to your information
 
@@ -101,10 +101,11 @@ If you are in the EU or UK, you can contact your data protection authority to fi
 
 ## How we secure your data
 
-All connections between our servers and your browser are encrypted with TLS. Your email address is encrypted before we store it in our database and decrypted when we need to send you an email. We also store a SHA-256 hash of your email address that we use to look up your account information when you log in. This means that if the contents of our main database file were leaked, your email address would not be exposed. We do not collect any other PII.
+All connections between our servers and your browser are encrypted with TLS. Your email address is encrypted before we store it in our database and decrypted when we need to send you an email. We also store a SHA-256 hash of your email address that we use to look up your account information when you log in. This means that if the contents of our main database file were leaked, your email address would not be exposed. We do not collect any other PII at this time.
 
-Other data, including page metadata you’ve given us, is not encrypted while stored in our database. When we have implemented at-rest encryption for our main database, we will update this document.
+Other data, including content metadata you’ve uploaded, is not encrypted while stored in our database. When we have implemented at-rest encryption for our main database, we will update this document.
 
+Our service runs on multiple servers that run around the world and connect to each other via an encrypted private network managed by our hosting provider. We will never transfer your data over the Internet without using industry-standard encryption systems managed by trusted parties.
 
 ## Location of site and data
 
