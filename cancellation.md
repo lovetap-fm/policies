@@ -12,7 +12,7 @@ Our legal responsibility is to account owners, which means we cannot cancel an a
 
 You won’t be able to access your account once your cancellation is processed, so make sure you download everything you want to keep beforehand.
 
-We’ll permanently delete the content in your account from our servers 30 days after cancellation, and from our backups within 60 days. Retrieving content for a single account from a backup isn’t possible, so if you change your mind you’ll need to do it within the first 30 days after cancellation. **Content can’t be recovered once it has been permanently deleted.**
+We’ll permanently delete the content in your account from our servers within 60 days of cancellation. Retrieving content for a single account from a backup isn’t possible, so if you change your mind you’ll need to do it within the first 30 days after cancellation. **Content can’t be recovered once it has been permanently deleted.**
 
 We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](help@lovetap.fm) for a [fair refund](https://github.com/lovetap-fm/policies/blob/main/refunds.md). We’ll treat you right.
 
