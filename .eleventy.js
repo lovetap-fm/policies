@@ -4,6 +4,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("pdf");
+  eleventyConfig.addPassthroughCopy("img");
 
   let markdownLibrary = markdownIt({
     html: true,
