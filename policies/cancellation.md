@@ -1,6 +1,9 @@
-# Cancellation policy
+---
+layout: policies.hbs
+title: Cancellation Policy
+---
 
-*Last updated March 1, 2023*
+_Last updated March 1, 2023_
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account, no questions asked.
 
@@ -14,12 +17,15 @@ You won’t be able to access your account once your cancellation is processed, 
 
 We’ll permanently delete the content in your account from our servers within 60 days of cancellation. **Content can’t be recovered once it has been permanently deleted.**
 
-We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](help@lovetap.fm) for a [fair refund](https://github.com/lovetap-fm/policies/blob/main/refunds.md). We’ll treat you right.
+We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](help@lovetap.fm) for a [fair refund](/policies/refunds). We’ll treat you right.
 
 ## Lovetap-initiated cancellations
 
 We may cancel accounts if they have been inactive for an extended period:
-* For frozen accounts: 180 days after being frozen due to billing failures
-* For free accounts: after 365 days of inactivity
 
-We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](https://github.com/lovetap-fm/policies/blob/main/terms-of-service.md). In practice, this generally means we will cancel your account without notice if we have evidence that you are using our products to engage in [abusive behavior](https://github.com/lovetap-fm/policies/blob/main/abuse.md).
+- For frozen accounts: 180 days after being frozen due to billing failures
+- For free accounts: after 365 days of inactivity
+
+We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](/policies/terms-of-service). In practice, this generally means we will cancel your account without notice if we have evidence that you are using our products to engage in [abusive behavior](/policies/abuse).
+
+_This policy applies to all products created and owned by Lovetap LLC._

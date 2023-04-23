@@ -1,6 +1,9 @@
-# Privacy Policy
+---
+layout: policies.hbs
+title: Privacy Policy
+---
 
-*Last updated March 1, 2023*
+_Last updated April 23, 2023_
 
 Lovetap’s mission is to connect people with what they ❤️ — and since most people don’t ❤️ being tracked across the internet and having their personal data stored and sold, we don’t do that. This document describes specifically what information we do and don’t collect about you as a customer or visitor.
 
@@ -10,17 +13,17 @@ We’ll never sell or trade your personal information to third parties, and we w
 
 ## What we DON’T collect
 
-We don’t log or store any IP addresses or geolocation coordinates of visitors or customers. 
+We don’t log or store any IP addresses or geolocation coordinates of visitors or customers.
 
 When you visit a website or app that uses Lovetap, we won’t place any cookies on your device, nor will we use local storage, browser fingerprinting, or any other mechanism of tracking you between visits or linking your activity to a personal profile.
 
-We don’t record site-wide mouse movements, keystrokes, or other detailed session replay data. 
+We don’t record site-wide mouse movements, keystrokes, or other detailed session replay data.
 
 We don’t use tracking pixels or third party services to retarget you with ads.
 
-When you create a Lovetap account, you will not be asked for a name or profile photo. 
+When you create a Lovetap account, you will not be asked for a name or profile photo.
 
-We do not store any of your billing details like name, address, or card number.
+Lovetap servers do not store any of your billing details like name, address, or card number. Those details are collected and stored securely by Lovetap's payment processor, [Stripe](https://stripe.com).
 
 ## What we DO collect and why
 
@@ -53,22 +56,24 @@ We also store information you may volunteer, for example, written responses to s
 ## When we access or share your information
 
 ### Troubleshooting and maintenance
+
 No Lovetap human looks at your website content except for the purpose of fixing problems when they arise. We may need to fix bugs in our software, or investigate and prevent restricted uses. Accessing a customer’s account when investigating any issue is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process.
 
 ### Where required by applicable law
+
 Lovetap LLC is a U.S. company and has data infrastructure located in the U.S.
 
-* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is Lovetap’s policy to notify affected users before we share data unless we are legally prohibited from doing so, and except in some emergency cases.
+- Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is Lovetap’s policy to notify affected users before we share data unless we are legally prohibited from doing so, and except in some emergency cases.
 
-* Preservation requests. Similarly, Lovetap’s policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
+- Preservation requests. Similarly, Lovetap’s policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
 
-* If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we will share only the minimum needed, such as billing addresses and tax exemption information.
+- If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we will share only the minimum needed, such as billing addresses and tax exemption information.
 
 If Lovetap LLC is acquired by or merges with another company, we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
 
 ### Subprocessors
 
-We use a few third-party subprocessors to help run our applications and provide our services to you. This list is exhaustive and is always updated prior to the release of new software that uses new subprocessors. 
+We use a few third-party subprocessors to help run our applications and provide our services to you. This list is exhaustive and is always updated prior to the release of new software that uses new subprocessors.
 
 We use Courier and Postmark to send customers email and manage their email preferences. When you create an account, they will receive your email address and the contents of any email we send you.
 
@@ -82,16 +87,16 @@ We use Algolia to provide search capabilities to our customers. They will receiv
 
 At Lovetap, we strive to apply the same data rights to all customers, regardless of their location. Some of these rights include:
 
-* **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
-* **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
-* **Right to Correction.** You have the right to request correction of your personal information.
-* **Right to Erasure / “To Be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using Lovetap services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
-* **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
-* **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
-* **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
-* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party. You can find more details in our [Data Export Policy](https://github.com/lovetap-fm/policies/blob/main/data-export.md).
-* **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
-* **Right to Non-Discrimination.** We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
+- **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
+- **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
+- **Right to Correction.** You have the right to request correction of your personal information.
+- **Right to Erasure / “To Be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using Lovetap services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+- **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
+- **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
+- **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
+- **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party. You can find more details in our [Data Export Policy](/policies/data-export).
+- **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
+- **Right to Non-Discrimination.** We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
 
 Many of these rights can be exercised by signing in and updating your account information.
 
@@ -113,7 +118,7 @@ Our products and other web properties are operated in the United States. If you 
 
 ### Cancellation
 
-If you cancel your account, we’ll log out all existing dashboard sessions and disable any account functionality. As per our [Cancellation Policy](https://github.com/lovetap-fm/policies/blob/main/cancellation.md), Your account data will be permanently deleted within 60 days. We do not guarantee that we will be able to restore account functionality if you change your mind before your account data is deleted, but you are welcome to ask.
+If you cancel your account, we’ll log out all existing dashboard sessions and disable any account functionality. As per our [Cancellation Policy](/policies/cancellation), Your account data will be permanently deleted within 60 days. We do not guarantee that we will be able to restore account functionality if you change your mind before your account data is deleted, but you are welcome to ask.
 
 ## When transferring personal data from the EU
 
@@ -129,4 +134,4 @@ Have any questions, comments, or concerns about this privacy policy, your data, 
 
 This privacy policy was adapted from [the open source privacy policy published by 37signals](https://github.com/basecamp/policies/blob/master/privacy/index.md). We thank them for sharing a valuable resource with the community.
 
-*This privacy policy applies to all products created and owned by Lovetap LLC.*
+_This policy applies to all products created and owned by Lovetap LLC._

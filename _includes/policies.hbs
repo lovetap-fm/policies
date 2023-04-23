@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Lovetap Policies &mdash; {{title}}</title>
+    <link rel="icon" type="image/x-icon" href="/a/favicon.png" />
+    <link rel="stylesheet" href="/css/policies.css" />
+  </head>
+  <body>
+    <div class="page-wrapper">
+      <div class="page">
+        {{#unless excludeBackLink}}
+          <p><a href="/">&larr; All policies</a></p>
+        {{/unless}}
+        <p><small><em><a href="https://lovetap.fm">&larr; Back to Lovetap</a></em></small></p>
+        <h1>{{title}}</h1>
+        {{{content}}}
+      </div>
+    </div>
+  </body>
+</html>
