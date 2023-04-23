@@ -20,6 +20,6 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note](help@lovetap.fm), tell us what's up, and we'll work with you to make sure you’re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note](mailto:help@lovetap.fm), tell us what's up, and we'll work with you to make sure you’re happy.
 
 _This policy applies to all products created and owned by Lovetap LLC._
